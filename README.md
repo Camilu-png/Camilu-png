@@ -1,5 +1,13 @@
-### Hi there 👋
+# Hola 🤓
+Soy Camilú y actualmente estoy trabajando en [Ulimac](https://camilu-png.github.io/portafolio.html), aunque igualmente sientete cómodo de ver mis repositorios. 
+Quién sabe, tal vez encuentres algo bueno por ahí.
 
+## Estudios
+Estoy aprendiendo desarrollo web por lo que podrás encontrar GitHub Pages por aquí 👀<br>
+Aunque también estoy estudiando Ingeniería Informática, por lo que encontrarte un repositorio de mis tareas no es tan descabellado
+## Encuéntrame
+
+Puedes encontrarme en mis redes sociales, como [Instagram](https://www.instagram.com/camilu_png/), [Twitter](https://twitter.com/camilu_png) y [Facebook](https://www.facebook.com/camila.arancibia.98096/)
 <!--
 **Camilu-png/Camilu-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
