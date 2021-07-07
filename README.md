@@ -9,7 +9,7 @@ Aunque también estoy estudiando Ingeniería Informática, por lo que encontrart
 
 Puedes encontrarme en mis redes sociales, como [Instagram](https://www.instagram.com/camilu_png/), [Twitter](https://twitter.com/camilu_png) y [Facebook](https://www.facebook.com/camila.arancibia.98096/)
 
-https://img.shields.io/twitter/follow/camilu_png?label=Camil%C3%BA%20%E2%9D%A4&style=social
+![Twitter Follow](https://img.shields.io/twitter/follow/camilu_png?label=Camil%C3%BA%20%E2%9D%A4&style=social)
 <!--
 **Camilu-png/Camilu-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
