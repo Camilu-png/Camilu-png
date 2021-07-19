@@ -9,7 +9,6 @@ Aunque también estoy estudiando Ingeniería Informática, por lo que encontrart
 
 Puedes encontrarme en mis redes sociales, como [Instagram](https://www.instagram.com/camilu_png/), [Twitter](https://twitter.com/camilu_png) y [Facebook](https://www.facebook.com/camila.arancibia.98096/)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/camilu_png?label=Camil%C3%BA%20%E2%9D%A4&style=social)
 <!--
 **Camilu-png/Camilu-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,23 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!--START_SECTION:waka-->
-name: Waka Readme
-
-on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
-  workflow_dispatch:
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-
-<!--END_SECTION:waka-->
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@d82f4a7a-0442-403c-a77c-f46272493e07/5996e511-5783-488b-91b0-ca13008dc9a8.png" /></a>
