@@ -1,5 +1,5 @@
 # Hola 🤓
-Soy Camilú y actualmente estoy trabajando en [mi protafolio](https://github.com/Camilu-png/camilucom-44920), aunque igualmente siéntete cómodo de ver mis repositorios. 
+Soy Camilú y actualmente estoy trabajando en [mi portafolio](https://github.com/Camilu-png/camilucom-44920), aunque igualmente siéntete cómodo de ver mis repositorios. 
 Quién sabe, tal vez encuentres algo bueno por ahí.
 ## Estudios
 Estoy aprendiendo desarrollo web por lo que podrás encontrar GitHub Pages por aquí 👀<br>
