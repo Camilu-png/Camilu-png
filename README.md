@@ -3,7 +3,7 @@ Soy Camilú y actualmente estoy trabajando en [mi portafolio](https://github.com
 Quién sabe, tal vez encuentres algo bueno por ahí.
 ## Estudios
 Estoy aprendiendo desarrollo web por lo que podrás encontrar GitHub Pages por aquí 👀<br>
-Aunque también estoy estudiando Ingeniería Civil Informática, por lo que encontrarte un repositorio de mis tareas no es tan descabellado.
+Aunque también estoy estudiando Ingeniería Civil Informática, por lo que encontrarte un repositorio de mis trabajos no es tan descabellado.
 ## Encuéntrame
 Puedes encontrarme en mis redes sociales, como [Instagram](https://www.instagram.com/camilu_png/), [Twitter](https://twitter.com/camilu_png), [Facebook](https://www.facebook.com/camila.arancibia.98096/), [LinkedIn](https://www.linkedin.com/in/camila-arancibia/) y por supuesto en [camilu-png.com](https://camilu-png.com).
 
@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@d82f4a7a-0442-403c-a77c-f46272493e07/70477ed0-a938-436b-9a07-6532c9f5170f.png" /></a>
+<!---<a href="https://wakatime.com"><img src="https://wakatime.com/share/@d82f4a7a-0442-403c-a77c-f46272493e07/70477ed0-a938-436b-9a07-6532c9f5170f.png" /></a>>
