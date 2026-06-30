@@ -2,9 +2,13 @@
 
 Civil Computer Engineer from Chile, building software from home.
 
-🎵 Currently working on **[Ocari](https://github.com/Camilu-png/Ocari)** — a Flutter app for learning 12-hole ocarina
-📐 Built an optimization algorithm for university timetabling (Simulated Annealing + puLP)
-🌱 Exploring machine learning and AI-assisted development
+
+- 🎵 Currently working on **[Ocari](https://github.com/Camilu-png/Ocari)** — a Flutter app for learning 12-hole ocarina
+
+- 📐 Built an optimization algorithm for university timetabling (Simulated Annealing + puLP)
+
+- 🌱 Exploring machine learning and AI-assisted development
+
 
 **Stack:** Flutter · Dart · Python · React · TypeScript · FastAPI · Docker
 
