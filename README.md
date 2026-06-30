@@ -1,4 +1,11 @@
-## Hello there 
+# Hello there, I'm Camilu 👋
 
-I'm a Civil Computer Engineer focused on software development.
-I recently developed an optimization-based solution for educational timetabling and I'm currently building software projects to strengthen my professional portfolio.
+Civil Computer Engineer from Chile, building software from home.
+
+🎵 Currently working on **[Ocari](https://github.com/Camilu-png/Ocari)** — a Flutter app for learning 12-hole ocarina
+📐 Built an optimization algorithm for university timetabling (Simulated Annealing + puLP)
+🌱 Exploring machine learning and AI-assisted development
+
+**Stack:** Flutter · Dart · Python · React · TypeScript · FastAPI · Docker
+
+📫 [LinkedIn](https://linkedin.com/in/camila-arancibia)
